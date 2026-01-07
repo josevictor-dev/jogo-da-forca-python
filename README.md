@@ -1,4 +1,4 @@
-# 🎯 Jogo da Forca em Python
+Jogo da Forca em Python
 
 Este projeto é um **jogo da forca desenvolvido em Python**, criado com o objetivo de praticar lógica de programação, estruturas de repetição, 
 condicionais e validação de entrada do usuário.
@@ -7,7 +7,7 @@ O projeto faz parte do meu processo de aprendizado em Python e será evoluído a
 
 ---
 
-## 🧠 Funcionalidades
+Funcionalidades
 
 - Palavra secreta digitada de forma oculta (não visível para o outro jogador)
 - Validação para aceitar apenas uma letra por tentativa
@@ -18,14 +18,14 @@ O projeto faz parte do meu processo de aprendizado em Python e será evoluído a
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 - Python 3
 - Biblioteca padrão `getpass` para ocultar a palavra secreta
 
 ---
 
-## ▶️ Como executar o projeto
+Como executar o projeto
 
 1. Certifique-se de ter o Python 3 instalado
 2. Clone este repositório:
