@@ -30,7 +30,6 @@ Como executar o projeto
 1. Certifique-se de ter o Python 3 instalado
 2. Clone este repositório:
    ```bash
-cd jogo-da-forca-python
-palavra_secreta_f.py
+cd palavra_secreta_f.py
 
    git clone https://github.com/seu-usuario/jogo-da-forca-python.git
