@@ -31,5 +31,3 @@ Como executar o projeto
 2. Clone este repositório:
    ```bash
 cd palavra_secreta_f.py
-
-   git clone https://github.com/seu-usuario/jogo-da-forca-python.git
